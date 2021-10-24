@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075194403379",
+    "firebase_url": "https://flutterapp-9c0f5.firebaseio.com",
+    "project_id": "flutterapp-9c0f5",
+    "storage_bucket": "flutterapp-9c0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075194403379:android:f78a1d1059d94102bae146",
+        "android_client_info": {
+          "package_name": "com.example.snake_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075194403379-hnh5k8mugsssk99s6kqc81cjv9lpudvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5hEDnrtsR9Ko1QF_e4Fg3Izj2TYHTCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075194403379-hnh5k8mugsssk99s6kqc81cjv9lpudvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
