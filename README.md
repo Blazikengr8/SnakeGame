@@ -1,16 +1,12 @@
-# snake_game
+# Snake Game
 
-A new Flutter project.
+A Snake Game made with Flutter. This game has the classic snake game with backend added using Firebase .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# App Screenshots
+<p float="left">
+<img src="Screenshots/screenshot1.jpeg" alt="Home Page"  height="600" >
+<img src="Screenshots/screenshot2.jpeg" alt="Game Screen"  height="600">
+<img src="Screenshots/screenshot3.jpeg" alt="Top Scores"  height="600">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
